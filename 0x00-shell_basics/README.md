@@ -14,3 +14,4 @@ ls al . /root (Used for listing files in current working directory and parent di
 file (it is used to determine what kind of data a file contains and the status of the file)
 ln -s (Used to point to other files or directories in linux)
 cp -u *.<file extension>(Used for copying nultiple files with the same extension to another depository)
+mv [[:upper]]* <path> (Used to move all files starting with uppercase letter)
