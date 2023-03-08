@@ -7,3 +7,4 @@ ls -al (Used for listing current directory contents including (.)hidden files in
 ls -aln (Used for listing current directory contents including (.)hidden files, user and group IDs displayed numerically in a long format)
 mkdir /tmp/my_first_directory (This creates the Directory my_first_directory inside root /temp directory)
 mv (used for moving files and directories from one directory to another or renames file and directory)
+rm (used for deleting or removing files)
