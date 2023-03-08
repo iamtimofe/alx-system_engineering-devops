@@ -17,3 +17,4 @@ cp -u *.<file extension>(Used for copying nultiple files with the same extension
 mv [[:upper]]* <path> (Used to move all files starting with uppercase letter)
 rm *~ (Used for deleting all files in the current working directory that end with the character ~)
 mkdir -p (Used for creating parent and children directories at the same time)
+
