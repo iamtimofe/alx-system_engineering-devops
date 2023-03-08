@@ -10,3 +10,4 @@ mv (used for moving files and directories from one directory to another or renam
 rm (used for deleting or removing files)
 rmdir (Used for deleting directory and sub directories if there is any)
 cd - (Used for changing work directory to previous directory)
+ls al . /root (Used for listing files in current working directory and parent directory in a long format with hidden . files)
