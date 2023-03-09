@@ -9,3 +9,5 @@ chmod ugo (Used for changing multiple permission with necessary parameters)
 chmomd ugo
 chmomd absolute method (This methos changes persmission through the use of digits)
 ls -l <file name> (Used for listing contetnt in long format)
+chmod --reference (Used for setting mode of a file to another file)
+chmod -R (Used for changing files and directories recursively)
