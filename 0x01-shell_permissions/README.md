@@ -8,3 +8,4 @@ chmod (Used for changing permission of a file)
 chmod ugo (Used for changing multiple permission with necessary parameters)
 chmomd ugo
 chmomd absolute method (This methos changes persmission through the use of digits)
+ls -l <file name> (Used for listing contetnt in long format)
