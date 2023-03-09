@@ -11,3 +11,4 @@ chmomd absolute method (This methos changes persmission through the use of digit
 ls -l <file name> (Used for listing contetnt in long format)
 chmod --reference (Used for setting mode of a file to another file)
 chmod -R (Used for changing files and directories recursively)
+mkdir -m (Used for creating a directory with mode)
