@@ -13,4 +13,5 @@ find . -type (Used for deleting all regular files within current working directo
 find (used for finding files and directories depending on the way it's being used)
 ls -t (Used for sorting files by it newest )
 uniq -u (Used for priting unique words from a file)
-grep (It is used for printing line matching a pattern)~
+grep (It is used for printing line matching a pattern)
+grep (It is used for printing line matching a pattern)
