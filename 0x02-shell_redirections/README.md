@@ -8,4 +8,4 @@ head (Outputs the first 10 lines of a file)
 head -3 <filename> | tail +3 (Used for displaying only line 3 of a file)
 > (in some cases can be used to create a file but in this case it does the work of creating and redirection)
 > (in some cases can be used to create a file but in this case it does the work of creating and redirection)
-
+tail-n < >> (Used for duplicating a file and appending)
