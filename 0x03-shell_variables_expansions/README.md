@@ -7,4 +7,5 @@ set (Used for printing all variables and function)
 BEST="School" (School is assigned to varaible BEST)
 export (Used for passing varaiables tp subshell)
 echo (Used for printing output on the screen and more with other string added)
-
+printf(Used for printing formatted text on the screen)
+%f (Used for printing a floating value of a number)
